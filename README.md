@@ -5,7 +5,7 @@ Lately, a group of online traders collaborated on Reddit & took down the hedge f
 - /src directory 
   - Includes the python script for the two lambda functions that were created for the project execution
  
-- Try our Application here : http://redstocks.com.s3-website-us-east-1.amazonaws.com/
+- Try the Application here : http://redstocks.com.s3-website-us-east-1.amazonaws.com/
   - Amazon Lex : Chatbot user interface to easy access.
   - AWS Lambda : Lambda Triggers to collect data from Reddit upon specific Lex Intent.
   - Amazon S3 : Storage of the Output files [reddit scrapped data & nasdaq stock data]
